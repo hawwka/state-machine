@@ -18,7 +18,7 @@
 - `TransitionState<TNextState>` — шаблон для промежуточных состояний с авто-переходом.
 
 ### Зависимости
-- Unity
+- [Zenject](https://github.com/modesttree/Zenject)
 - [UniRx](https://github.com/neuecc/UniRx)
 - [UniTask](https://github.com/Cysharp/UniTask)
 
@@ -64,7 +64,7 @@ A lightweight Unity state machine with:
 - `TransitionState<TNextState>` — helper for transitional states with automatic next-state switch.
 
 ### Dependencies
-- Unity
+- [Zenject](https://github.com/modesttree/Zenject)
 - [UniRx](https://github.com/neuecc/UniRx)
 - [UniTask](https://github.com/Cysharp/UniTask)
 
