@@ -1,4 +1,4 @@
-# Unity State Machine (Portfolio)
+# Unity State Machine
 
 Документация на английском языке ниже (English documentation is below).
 
